@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\PersonalWebSite.csproj",
+      "projectUniqueName": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Personal_Site_MVC\\PersonalWebSite\\PersonalWebSite.csproj",
       "projectName": "PersonalWebSite",
-      "projectPath": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\PersonalWebSite.csproj",
+      "projectPath": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Personal_Site_MVC\\PersonalWebSite\\PersonalWebSite.csproj",
       "packagesPath": "C:\\Users\\AbdulRahman\\.nuget\\packages\\",
-      "outputPath": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\obj\\",
+      "outputPath": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Personal_Site_MVC\\PersonalWebSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AbdulRahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
