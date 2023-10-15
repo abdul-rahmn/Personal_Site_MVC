@@ -1,0 +1,525 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PersonalWebSite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PersonalWebSite.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\background.jpg",
+      "PackagePath": "staticwebassets\\images\\background.jpg"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\img1.png",
+      "PackagePath": "staticwebassets\\images\\img1.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\img2.jpg"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\images\\img3.jpg"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\images\\img4.jpg"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\img5.jpg",
+      "PackagePath": "staticwebassets\\images\\img5.jpg"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\img6.jpg",
+      "PackagePath": "staticwebassets\\images\\img6.jpg"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\img7.png",
+      "PackagePath": "staticwebassets\\images\\img7.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\1.png",
+      "PackagePath": "staticwebassets\\images\\prison\\1.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\10.png",
+      "PackagePath": "staticwebassets\\images\\prison\\10.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\11.png",
+      "PackagePath": "staticwebassets\\images\\prison\\11.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\12.png",
+      "PackagePath": "staticwebassets\\images\\prison\\12.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\13.png",
+      "PackagePath": "staticwebassets\\images\\prison\\13.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\14.png",
+      "PackagePath": "staticwebassets\\images\\prison\\14.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\15.png",
+      "PackagePath": "staticwebassets\\images\\prison\\15.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\16.png",
+      "PackagePath": "staticwebassets\\images\\prison\\16.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\17.png",
+      "PackagePath": "staticwebassets\\images\\prison\\17.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\18.png",
+      "PackagePath": "staticwebassets\\images\\prison\\18.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\19.png",
+      "PackagePath": "staticwebassets\\images\\prison\\19.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\2.png",
+      "PackagePath": "staticwebassets\\images\\prison\\2.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\20.png",
+      "PackagePath": "staticwebassets\\images\\prison\\20.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\21.png",
+      "PackagePath": "staticwebassets\\images\\prison\\21.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\22.png",
+      "PackagePath": "staticwebassets\\images\\prison\\22.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\23.png",
+      "PackagePath": "staticwebassets\\images\\prison\\23.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\24.png",
+      "PackagePath": "staticwebassets\\images\\prison\\24.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\25.png",
+      "PackagePath": "staticwebassets\\images\\prison\\25.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\26.png",
+      "PackagePath": "staticwebassets\\images\\prison\\26.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\3.png",
+      "PackagePath": "staticwebassets\\images\\prison\\3.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\4.png",
+      "PackagePath": "staticwebassets\\images\\prison\\4.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\5.png",
+      "PackagePath": "staticwebassets\\images\\prison\\5.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\6.png",
+      "PackagePath": "staticwebassets\\images\\prison\\6.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\7.png",
+      "PackagePath": "staticwebassets\\images\\prison\\7.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\8.png",
+      "PackagePath": "staticwebassets\\images\\prison\\8.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\prison\\9.png",
+      "PackagePath": "staticwebassets\\images\\prison\\9.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\t1.png",
+      "PackagePath": "staticwebassets\\images\\t1.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\1.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\1.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\10.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\10.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\11.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\11.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\12.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\12.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\13.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\13.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\14.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\14.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\15.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\15.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\16.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\16.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\17.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\17.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\18.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\18.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\19.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\19.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\2.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\2.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\20.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\20.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\21.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\21.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\22.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\22.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\23.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\23.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\24.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\24.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\25.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\25.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\26.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\26.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\27.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\27.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\28.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\28.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\3.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\3.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\4.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\4.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\5.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\5.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\6.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\6.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\7.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\7.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\8.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\8.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\9.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\9.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\images\\test-system\\ProjectPlan.png",
+      "PackagePath": "staticwebassets\\images\\test-system\\ProjectPlan.png"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PersonalWebSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PersonalWebSite.props",
+      "PackagePath": "build\\PersonalWebSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PersonalWebSite.props",
+      "PackagePath": "buildMultiTargeting\\PersonalWebSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PersonalWebSite.props",
+      "PackagePath": "buildTransitive\\PersonalWebSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

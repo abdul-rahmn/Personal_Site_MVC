@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nIoYxuSOib2RdxZw4xbPejJquYyNrB9YwGSmjNwNV8Y08pxMY8WFsmXz8Lm7sP92IyZvVJf2ggdwbUdjBjKaag==",
+  "success": true,
+  "projectFilePath": "D:\\جامعة\\سنة ثالثة\\فصل أول\\تطوير تطبيقات ويب 2\\Pesrosnaol WebSite Project\\Pesrosnaol WebSite Project\\PersonalWebSite\\PersonalWebSite\\PersonalWebSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AbdulRahman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\AbdulRahman\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\AbdulRahman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\AbdulRahman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
